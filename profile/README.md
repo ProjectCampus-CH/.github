@@ -1,6 +1,12 @@
-# ProjectCampus-CH
+<div align="center">
+
+# <image src="/profile/pic/icon.png" height="32"/> ProjectCampus-CH
+
+<image src="/profile/pic/banner.jpg" height="128"/>
 
 欢迎来到 **ProjectCampus-CH** 项目的 GitHub 仓库！🎉
+
+</div>
 
 ## 介绍
 **ProjectCampus-CH** 旨在改进校园生活和学习体验。通过提供有用的工具和资源，我们帮助学生、教师和管理人员优化他们的日常活动。
