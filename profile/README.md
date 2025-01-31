@@ -22,6 +22,6 @@
 
 ## 联系我们
 如果有任何问题或建议，请通过以下方式联系我们：
-- 在 GitHub 参与 Discussion
+- [在 GitHub 参与 Discussion](https://github.com/orgs/ProjectCampus-CH/discussions)
 
 感谢你的关注和支持！🌟
